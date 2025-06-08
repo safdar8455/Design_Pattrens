@@ -7,3 +7,5 @@
 2. Structural Design Pattern
 3. Behavioral Design Pattern
 
+### Playlist Url is:
+- https://www.youtube.com/playlist?list=PL0zysOflRCek8kmc_jYl_6C7tpud7U2V_
